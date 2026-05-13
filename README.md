@@ -29,8 +29,7 @@
   - [07 — 标准单元库 sky130_fd_sc_hd 简介](notes/07-sc-hd-stdcell.md)
   - [08 — 实战 1：5T-OTA 原理图与 corner / Monte Carlo 仿真](notes/08-tutorial-ota-sim.md)
   - [09 — 实战 2：版图与 DRC / LVS（magic / netgen 批处理）](notes/09-tutorial-layout-lvs.md)
+  - [10 — PEX 提取与后仿（cap-only / R+C）](notes/10-pex-postsim.md)
   - [参考资料（外部）](notes/references.md) — 公开 PDK（含 FinFET 预测 PDK）、工具文档、教程、教材、论文
 
-后续：
-
-- 10 — PEX 提取与后仿
+至此 01–10 完成，覆盖 PDK 知识 + 仿真 + 版图 + LVS + PEX 全流程。下一步应当亲手把 5T-OTA 从原理图画到 PEX 跑一遍，而不是再写更多笔记。
