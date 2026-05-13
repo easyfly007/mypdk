@@ -27,10 +27,10 @@
   - [05 — magicrc / xschemrc 入口配置](notes/05-rc-entrypoints.md)
   - [06 — DRC / LVS 流程实战](notes/06-drc-lvs-flow.md)
   - [07 — 标准单元库 sky130_fd_sc_hd 简介](notes/07-sc-hd-stdcell.md)
+  - [08 — 实战 1：5T-OTA 原理图与 corner / Monte Carlo 仿真](notes/08-tutorial-ota-sim.md)
   - [参考资料（外部）](notes/references.md) — 公开 PDK（含 FinFET 预测 PDK）、工具文档、教程、教材、论文
 
-后续（动手实战，需先建工作目录）：
+后续：
 
-- 08 — 实战 1：5T-OTA 原理图与 corner 仿真
 - 09 — 实战 2：5T-OTA 版图与 DRC/LVS
 - 10 — PEX 提取与后仿
