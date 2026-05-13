@@ -22,10 +22,10 @@
 - [notes/](notes/) — 概念笔记
   - [01 — 安装 sky130 PDK（Volare 方式）](notes/01-install-sky130.md)
   - [02 — PDK 文件结构地图（libs.tech vs libs.ref）](notes/02-pdk-structure.md)
+  - [03 — 器件库 sky130_fd_pr：MOS / 电阻 / 电容 / 二极管](notes/03-fd-pr-devices.md)
 
 后续会扩展：
 
-- 03 — 器件库 sky130_fd_pr：MOS、电阻、电容、二极管
 - 04 — 仿真模型与 corner 体系
 - 05 — magicrc / xschemrc 入口配置
 - 06 — DRC / LVS 流程实战
